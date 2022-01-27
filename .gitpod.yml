@@ -1,3 +1,4 @@
+image: europe-docker.pkg.dev/gitpod-artifacts/docker-dev/workspace-full:2022-01-27-08-27-20
 ports:
   - port: 8080
     onOpen: open-preview
